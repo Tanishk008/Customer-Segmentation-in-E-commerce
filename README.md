@@ -34,3 +34,29 @@ This project uses **KMeans Clustering** and **Principal Component Analysis (PCA)
 ---
 
 ## 📁 File Structure
+customer-segmentation-kmeans/ ├── README.md ├── requirements.txt └── Customer_Segmentation.ipynb
+
+yaml
+Copy
+Edit
+
+
+---
+
+## ✅ Sample Output
+- Elbow plot showing optimal `k`
+- 2D scatter plot with color-coded clusters using PCA
+
+---
+
+## 📥 Example Dataset
+You can use any dataset with numerical features for clustering. Some suggestions:
+- Customer purchase behavior
+- Product features
+- Student scores
+
+pandas
+matplotlib
+seaborn
+scikit-learn
+
